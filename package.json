@@ -1,5 +1,5 @@
 {
-  "homepage": "https://shwetalale25.github.io/my-app",
+  "homepage": "https://shwetalale25.github.io/LGMVIP-WebDev-Task2",
   "name": "task2",
   "version": "0.1.0",
   "private": false,
@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.2.1",
     "bootstrap": "^5.2.3",
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-bootstrap-validation": "^0.1.11",
     "react-dom": "^18.2.0",
